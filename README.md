@@ -1,6 +1,8 @@
 # Colored-Cube-with-Camera
 
-This program was creating by following Trent Reed's tutorials for Qt and OpenGL: http://www.trentreed.net/topics/qt-framework/.
+This program was creating by following Trent Reed's tutorials for Qt and OpenGL at http://www.trentreed.net/topics/qt-framework/.
+
+Download and unzip the files then run the executable.
 
 Controls:
 
